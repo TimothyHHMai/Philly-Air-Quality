@@ -1,6 +1,6 @@
 # Philly-Air-Quality
 
-An automated machine learning pipeline that forecasts next-day air quality across Philadelphia and alerts at-risk residents before unhealthy air days. It is designed to run at $0/month on AWS always-free services and GitHub Actions, with automatic drift detection and retraining.
+An automated machine learning pipeline that forecasts next-day air quality across Philadelphia and alerts at-risk residents before unhealthy air days.
 
 Status: in development.
 
